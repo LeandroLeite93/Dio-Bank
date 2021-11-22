@@ -1,0 +1,5 @@
+C:\Users\nagil\Desktop\dioBank\obj\Debug\net5.0\dioBank.csproj.AssemblyReference.cache
+C:\Users\nagil\Desktop\dioBank\obj\Debug\net5.0\dioBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagil\Desktop\dioBank\obj\Debug\net5.0\dioBank.AssemblyInfoInputs.cache
+C:\Users\nagil\Desktop\dioBank\obj\Debug\net5.0\dioBank.AssemblyInfo.cs
+C:\Users\nagil\Desktop\dioBank\obj\Debug\net5.0\dioBank.csproj.CoreCompileInputs.cache
